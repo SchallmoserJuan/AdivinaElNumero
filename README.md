@@ -8,13 +8,13 @@ Este es un juego simple de "Adivina el Número" implementado utilizando HTML, CS
 * Indica al usuario cuántos intentos ha realizado.
 * Opción para reiniciar el juego y jugar de nuevo.
 
-Tecnologías utilizadas
-HTML: para la estructura básica de la página web.
-CSS: para el diseño y estilos de la interfaz de usuario.
-JavaScript: para la lógica del juego y la interacción con el usuario.
+## Tecnologías utilizadas
+* HTML: para la estructura básica de la página web.
+* CSS: para el diseño y estilos de la interfaz de usuario.
+* JavaScript: para la lógica del juego y la interacción con el usuario.
 
-Capturas de pantalla
+
 ![ezgif-3-74cb74ca08](https://github.com/SchallmoserJuan/AdivinaElNumero/assets/96781254/1dfa383f-e7c5-4b29-a89e-0e968701a327)
 
-Demostración en vivo
-[(Proporciona un enlace a una demostración en vivo del juego, si está disponible)](https://adivina-el-numero-one.vercel.app/)
+Demo
+(https://adivina-el-numero-one.vercel.app/)
